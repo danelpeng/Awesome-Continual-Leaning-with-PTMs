@@ -11,10 +11,10 @@
 ## Table of Contents 📰
 
 - [Survey](#Survey)
-- [Prompt Based](#Prompt Based)
-- [Adapter Based ](#Adapter Based)
-- [MoE&Ensemble Based ](#MoE&Ensemble Based)
-- [VLM Based ](#VLM Based)
+- [Prompt Based](#Prompt-Based)
+- [Adapter Based ](#Adapter-Based)
+- [MoE&Ensemble Based ](#MoE&Ensemble-Based)
+- [VLM Based ](#VLM-Based)
 - [Application ](#Application)
 
 
