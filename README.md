@@ -2,7 +2,7 @@
 
 > This is a curated list of "Continual Learning with Pretrained Models" research which is maintained by [danelpeng](https://github.com/danelpeng).
 
-![](F:\Typora图片\lifelong-learning-17285217395261.png)
+![](https://github.com/danelpeng/Awesome-Continual-Leaning-with-PTMs/blob/master/lifelong-learning.png)
 
 ## News 🔥
 
