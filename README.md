@@ -389,7 +389,7 @@ Nanyang Technological University
 
 
 * [**Low-Rank Continual Personalization of Diffusion Models**](https://arxiv.org/pdf/2410.04891) [**Arxiv 2024.10**]
-Master in Computer Vision (Barcelona), Apple, KU Leuven
+Warsaw University of Technology
 
 
 * [**Continual Learning of Diffusion Models with Generative Distillation**](https://arxiv.org/pdf/2311.14028) [**CoLLAs 2024**]
