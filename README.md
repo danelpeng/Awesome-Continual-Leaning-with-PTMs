@@ -6,6 +6,7 @@
 
 ## News 🔥
 
+[2024/10/25] Updated with latest papers.
 [2024/10/08] Created this repo.
 
 ## Table of Contents 📰
@@ -13,6 +14,7 @@
 - [Survey](#Survey)
 - [Prompt Based](#Prompt-Based)
 - [Adapter Based ](#Adapter-Based)
+- [LoRA Based ](#LoRA-Based)
 - [MoE&Ensemble Based ](#MoE&Ensemble-Based)
 - [VLM Based ](#VLM-Based)
 - [Application ](#Application)
@@ -32,6 +34,10 @@ Nanjing University
 
 
 > ### Prompt Based 
+
+
+* [**Replay-and-Forget-Free Graph Class-Incremental Learning: A Task Profiling and Prompting Approach**](https://arxiv.org/pdf/2410.10341) [**NeurIPS 2024**]
+University of Technology Sydney, Singapore Management University, University of Illinois at Chicago
 
 
 * [**ModalPrompt:Dual-Modality Guided Prompt for Continual Learning of Large Multimodal Models**](https://arxiv.org/pdf/2410.05849) [**Arxiv 2024.10**]
@@ -120,6 +126,10 @@ Northeastern University, Google Cloud AI, Google Research
 > ### Adapter Based 
 
 
+* [**ATLAS: Adapter-Based Multi-Modal Continual Learning with a Two-Stage Learning Strategy**](https://arxiv.org/abs/2410.10923) [**Arxiv 2024.10**]
+Shanghai Jiao Tong University,  ShanghaiTech University, Tsinghua University
+
+
 * [**Adaptive Adapter Routing for Long-Tailed Class-Incremental Learning**](https://arxiv.org/pdf/2409.07446) [**Arxiv 2024.09**]
 Nanjing University
 
@@ -140,8 +150,19 @@ Xi’an Jiaotong University
 Huazhong University of Science and Tech., DAMO Academy, Alibaba Group
 
 
+* [**Expandable Subspace Ensemble for Pre-Trained Model-Based Class-Incremental Learning**](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_Expandable_Subspace_Ensemble_for_Pre-Trained_Model-Based_Class-Incremental_Learning_CVPR_2024_paper.pdf) [**CVPR 2024**]
+Nanjing University
+
+
+> ### LoRA Based 
+
+
 * [**InfLoRA: Interference-Free Low-Rank Adaptation for Continual Learning**](https://openaccess.thecvf.com/content/CVPR2024/papers/Liang_InfLoRA_Interference-Free_Low-Rank_Adaptation_for_Continual_Learning_CVPR_2024_paper.pdf) [**CVPR 2024**]
 Nanjing University
+
+
+* [**Online-LoRA: Task-free Online Continual Learning via Low Rank Adaptation**](https://openreview.net/pdf?id=X7OKRr09OS) [**NeurIPSW 2024**]
+University of Texas at Austin
 
 
 * [**Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters**](https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_Boosting_Continual_Learning_of_Vision-Language_Models_via_Mixture-of-Experts_Adapters_CVPR_2024_paper.pdf) [**CVPR 2024**]
@@ -207,6 +228,10 @@ Ulm University
 Tsinghua University
 
 
+* [**Ex-Model: Continual Learning from a Stream of Trained Models**](https://openaccess.thecvf.com/content/CVPR2022W/CLVision/papers/Carta_Ex-Model_Continual_Learning_From_a_Stream_of_Trained_Models_CVPRW_2022_paper.pdf) [**CVPRW 2022**]
+University of Pisa
+
+
 * [**Routing Networks with Co-training for Continual Learning**](https://arxiv.org/pdf/2009.04381) [**ICMLW 2020**]
 Google AI, Zurich
 
@@ -236,6 +261,10 @@ Tsinghua University, SmartMore, CUHK, HIT(SZ), Meta Reality Labs, HKU
 
 * [**Anytime Continual Learning for Open Vocabulary Classification**](https://arxiv.org/abs/2409.08518) [**ECCV 2024 (oral)**]
 University of Illinois at Urbana-Champaign
+
+
+* [**Select and Distill: Selective Dual-Teacher Knowledge Transfer for Continual Learning on Vision-Language Models**](https://arxiv.org/pdf/2403.09296) [**ECCV 2024**]
+National Taiwan University, NVIDIA
 
 
 * [**Expand and Merge: Continual Learning with the Guidance of Fixed Text Embedding Space**](https://ieeexplore.ieee.org/abstract/document/10650910) [**IJCNN 2024**]
@@ -373,6 +402,14 @@ Yonsei University, Seoul National University
 > #### LLM
 
 
+* [**LLaCA: Multimodal Large Language Continual Assistant**](https://arxiv.org/pdf/2410.10868) [**Arxiv 2024.10**]
+East China Normal University, Xiamen University, Tencent YouTu Lab
+
+
+* [**Is Parameter Collision Hindering Continual Learning in LLMs?**](https://arxiv.org/pdf/2410.10179) [**Arxiv 2024.10**]
+Peking University, DAMO Academy
+
+
 * [**ModalPrompt:Dual-Modality Guided Prompt for Continual Learning of Large Multimodal Models**](https://arxiv.org/pdf/2410.05849) [**Arxiv 2024.10**]
 Institute of Automation, CAS
 
@@ -390,6 +427,14 @@ Nanyang Technological University
 
 * [**Low-Rank Continual Personalization of Diffusion Models**](https://arxiv.org/pdf/2410.04891) [**Arxiv 2024.10**]
 Warsaw University of Technology
+
+
+* [**Continual Diffusion with STAMINA: STack-And-Mask INcremental Adapters**](https://openaccess.thecvf.com/content/CVPR2024W/MMFM/papers/Smith_Continual_Diffusion_with_STAMINA_STack-And-Mask_INcremental_Adapters_CVPRW_2024_paper.pdf) [**CVPRW 2024**]
+Samsung Research America, Georgia Institute of Technology
+
+
+* [**Continual Diffusion: Continual Customization of Text-to-Image Diffusion with C-LoRA**](https://arxiv.org/pdf/2304.06027) [**TMLR 2024**]
+Samsung Research America, Georgia Institute of Technology
 
 
 * [**Continual Learning of Diffusion Models with Generative Distillation**](https://arxiv.org/pdf/2311.14028) [**CoLLAs 2024**]
