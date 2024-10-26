@@ -16,7 +16,7 @@
 - [Prompt Based](#Prompt-Based)
 - [Adapter Based ](#Adapter-Based)
 - [LoRA Based ](#LoRA-Based)
-- [MoE&Ensemble Based ](#MoE&Ensemble-Based)
+- [MoE&Ensemble Based ](#MoE-&-Ensemble-Based)
 - [VLM Based ](#VLM-Based)
 - [Application ](#Application)
 
