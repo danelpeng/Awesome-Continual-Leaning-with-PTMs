@@ -16,7 +16,7 @@
 - [Prompt Based](#Prompt-Based)
 - [Adapter Based ](#Adapter-Based)
 - [LoRA Based ](#LoRA-Based)
-- [MoE&Ensemble Based ](#MoE-&-Ensemble-Based)
+- [MoE/Ensemble Based ](#MoE/Ensemble-Based)
 - [VLM Based ](#VLM-Based)
 - [Application ](#Application)
 
@@ -170,7 +170,7 @@ University of Texas at Austin
 Dalian University of Technology, UESTC, Tsinghua University
 
 
-> ### MoE&Ensemble Based 
+> ### MoE/Ensemble Based 
 
 
 * [**Learning Attentional Mixture of LoRAs for Language Model Continual Learning**](https://arxiv.org/pdf/2409.19611) [**Arxiv 2024.09**]
