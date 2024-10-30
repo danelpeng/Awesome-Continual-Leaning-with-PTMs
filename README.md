@@ -14,11 +14,13 @@
 
 - [Survey](#Survey)
 - [Prompt Based](#Prompt-Based)
-- [Adapter Based ](#Adapter-Based)
-- [LoRA Based ](#LoRA-Based)
-- [MoE/Ensemble Based ](#MoEEnsemble-Based)
-- [VLM Based ](#VLM-Based)
-- [Application ](#Application)
+- [Adapter Based](#Adapter-Based)
+- [LoRA Based](#LoRA-Based)
+- [MoE/Ensemble Based](#MoEEnsemble-Based)
+- [VLM Based](#VLM-Based)
+- [Diffusion Based](#Diffusion-Based)
+- [Representation Based](#Representation-Based)
+- [Application](#Application)
 
 
 ## Methods 🌟
