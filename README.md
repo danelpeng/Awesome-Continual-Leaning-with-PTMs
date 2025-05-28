@@ -585,6 +585,10 @@ Nanjing University
 University of Electronic Science and Technology
 
 
+* [**Generative multi-modal models are good class incremental learners**](https://openaccess.thecvf.com/content/CVPR2024/papers/Cao_Generative_Multi-modal_Models_are_Good_Class_Incremental_Learners_CVPR_2024_paper.pdf) [**CVPR 2024**]
+Nankai University
+
+
 > ### Diffusion Based 
 
 
