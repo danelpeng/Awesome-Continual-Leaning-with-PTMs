@@ -6,6 +6,8 @@
 
 ## News 🔥
 
+[2025/05/28] Updated with latest papers.
+
 [2025/03/24] Updated with latest papers.
 
 [2024/10/25] Updated with latest papers.
@@ -20,6 +22,7 @@
 - [LoRA Based](#LoRA-Based)
 - [MoE/Ensemble Based](#MoEEnsemble-Based)
 - [VLM Based](#VLM-Based)
+- [LLM Based](#LLM-Based)
 - [Diffusion Based](#Diffusion-Based)
 - [Application](#Application)
 
@@ -66,6 +69,14 @@ University of Technology Sydney, University of Liverpool, University of Wollongo
 
 
 > ### Prompt Based 
+
+
+* [**Prompt-Enhanced: Leveraging language representation for prompt continual learning**](https://www.sciencedirect.com/science/article/abs/pii/S0893608025004691) [**NN 2025**]
+Southeast University, Institute of Automation, CAS
+
+
+* [**PrePrompt: Predictive prompting for class incremental learning**](https://arxiv.org/pdf/2505.08586) [**Arxiv 2025.05**]
+Institute of Computing Technology, CAS
 
 
 * [**Dynamic Prompt Adjustment for Multi-Label Class-Incremental Learning**](https://arxiv.org/pdf/2501.00340) [**Arxiv 2024.12**]
@@ -190,6 +201,10 @@ Northeastern University, Google Cloud AI, Google Research
 > ### Adapter Based 
 
 
+* [**AdaPrefix++: Integrating Adapters, Prefixes and Hypernetwork for Continual Learning**](https://ieeexplore.ieee.org/abstract/document/10943897/authors) [**WACV 2025**]
+Indian Institute of Technology Hyderabad
+
+
 * [**CMoA: Contrastive Mixture of Adapters for Generalized Few-Shot Continual Learning**](https://ieeexplore.ieee.org/abstract/document/10891550/authors#authors) [**TMM 2025**]
 University of Oulu, TeleAI, 
 
@@ -288,6 +303,18 @@ Amazon Web Services
 > ### MoE/Ensemble Based 
 
 
+* [**MINGLE: Mixtures of Null-Space Gated Low-Rank Experts for Test-Time Continual Model Merging**](https://arxiv.org/pdf/2505.11883) [**Arxiv 2025.05**]
+University of Electronic Science and Technology of China
+
+
+* [**Training Consistent Mixture-of-Experts-Based Prompt Generator for Continual Learning**](https://ojs.aaai.org/index.php/AAAI/article/view/34108) [**AAAI 2025**]
+Northwestern Polytechnical University
+
+
+* [**BECAME: BayEsian Continual Learning with Adaptive Model MErging**](https://arxiv.org/pdf/2504.02666) [**Arxiv 2025.04**]
+Shanghai Jiao Tong University
+
+
 * [**A scalable Bayesian continual learning framework for online and sequential decision making**](https://openreview.net/pdf?id=NDaaCaWS9N) [**NeurIPSW 2024**]
 University of Oxford
 
@@ -381,6 +408,26 @@ HKUST, Facebook
 
 
 > ### VLM Based 
+
+
+* [**Beyond CLIP Generalization: Against Forward&Backward Forgetting Adapter for Continual Learning of Vision-Language Models**](https://arxiv.org/pdf/2505.07690) [**Arxiv 2025.05**]
+Xi’an Jiaotong University
+
+
+* [**Language Guided Concept Bottleneck Models for Interpretable Continual Learning**](https://arxiv.org/pdf/2503.23283) [**Arxiv 2025.03**]
+Institute of Automation, CAS
+
+
+* [**IAP: Improving Continual Learning of Vision-Language Models via Instance-Aware Prompting**](https://arxiv.org/pdf/2503.20612) [**Arxiv 2025.03**]
+Zhejiang University
+
+
+* [**Knowledge Graph Enhanced Generative Multi-modal Models for Class-Incremental Learning**](https://arxiv.org/pdf/2503.18403) [**Arxiv 2025.03**]
+Nankai University
+
+
+* [**External Knowledge Injection for CLIP-Based Class-Incremental Learning**](https://arxiv.org/pdf/2503.08510) [**Arxiv 2025.03**]
+Nanjing University
 
 
 * [**Enhanced Continual Learning of Vision-Language Models with Model Fusion**](https://www.arxiv.org/abs/2503.10705) [**ICLRW 2025**]
@@ -523,7 +570,22 @@ Xi’an Jiaotong University
 University of Washington, OpenAI, Columbia University, Google Research, Brain Team
 
 
+> ### LLM Based 
+
+
+* [**External Knowledge Injection for CLIP-Based Class-Incremental Learning**](https://arxiv.org/pdf/2503.08510) [**Arxiv 2025.03**]
+Nanjing University
+
+
+* [**DesCLIP: Robust Continual Adaptation via General Attribute Descriptions for Pretrained Vision-Language Models**](https://arxiv.org/pdf/2502.00618) [**Arxiv 2025.02**]
+University of Electronic Science and Technology
+
+
 > ### Diffusion Based 
+
+
+* [**Diffusion Meets Few-shot Class Incremental Learning**](hhttps://arxiv.org/pdf/2503.23402) [**Arxiv 2025.03**]
+NAVER AI Lab
 
 
 * [**Continual learning with task specialist**](https://arxiv.org/pdf/2409.17806) [**Arxiv 2024.09**]
@@ -563,6 +625,66 @@ Wuhan University
 
 
 > ### New Perspective Based
+
+
+* [**Continuous Subspace Optimization for Continual Learning**](https://arxiv.org/pdf/2505.11816) [**Arxiv 2025.05**]
+Nanjing University
+
+
+* [**Task-Core Memory Management and Consolidation for Long-term Continual Learning**](https://arxiv.org/pdf/2505.09952) [**Arxiv 2025.05**]
+East China Normal University, Nanyang Technological University, Fudan University
+
+
+* [**Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**](https://arxiv.org/pdf/2505.07634) [**Arxiv 2025.05**]
+Nanyang Technological University
+
+
+* [**Brain-Inspired Quantum Neural Architectures for Pattern Recognition: Integrating QSNN and QLSTM**](https://arxiv.org/pdf/2505.01735) [**Arxiv 2025.05**]
+University of Granada
+
+
+* [**Mathematics of Continual Learning**](https://arxiv.org/pdf/2504.17963) [**Arxiv 2025.04**]
+Michigan State University
+
+
+* [**Audio-Visual Class-Incremental Learning for Fish Feeding Intensity Assessment in Aquaculture**](https://arxiv.org/pdf/2504.15171) [**Arxiv 2025.04**]
+University of Surrey, Tianjin University
+
+
+* [**Bayesian continual learning and forgetting in neural networks**](https://arxiv.org/pdf/2504.13569) [**Arxiv 2025.04**]
+Universit  ́e Paris-Saclay
+
+
+* [**Memory-Statistics Tradeoff in Continual Learning with Structural Regularization**](https://arxiv.org/pdf/2504.04039) [**Arxiv 2025.04**]
+Rice University, UC Berkeley, Johns Hopkins University
+
+
+* [**Beyond Single-Turn: A Survey on Multi-Turn Interactions with Large Language Models**](https://arxiv.org/pdf/2504.04717) [**Arxiv 2025.05**]
+CMU
+
+
+* [**Efficient Continual Learning through Frequency Decomposition and Integration**](https://arxiv.org/pdf/2503.22175) [**Arxiv 2025.03**]
+ICT, CAS
+
+
+* [**Enhancing Domain-Specific Encoder Models with LLM-Generated Data: How to Leverage Ontologies, and How to Do Without Them**](https://arxiv.org/pdf/2503.22006) [**Arxiv 2025.03**]
+Bielefeld University
+
+
+* [**Adaptive Few-Shot Class-Incremental Learning via Latent Variable Models**](https://www.jair.org/index.php/jair/article/view/17006) [**Arxiv 2025.03**]
+University of Cambridge
+
+
+* [**Continual learning via probabilistic exchangeable sequence modelling**](https://arxiv.org/pdf/2503.20725) [**Arxiv 2025.03**]
+University of Oxford
+
+
+* [**Global Convergence of Continual Learning on Non-IID Data**](https://arxiv.org/pdf/2503.18511) [**Arxiv 2025.03**]
+Hong Kong Institute of Science & Innovation, CAS
+
+
+* [**Restoring Forgotten Knowledge in Non-Exemplar Class Incremental Learning through Test-Time Semantic Evolution**](https://arxiv.org/pdf/2503.16793) [**Arxiv 2025.03**]
+Nankai University
 
 
 * [**Continual Learning Should Move Beyond Incremental Classification**](https://arxiv.org/pdf/2502.11927v1) [**Arxiv 2025.02**]
@@ -618,6 +740,30 @@ University of Oxford, KAUST, Meta AI
 
 
 > #### Embodied AI
+
+
+* [**Continual Robot Learning via Language-Guided Skill Acquisition**](https://openreview.net/pdf?id=VJfK5xy6F6) [** ICRAW 2025**]
+Georgia Institute of Technology
+
+
+* [**SPECI: Skill Prompts based Hierarchical Continual Imitation Learning for Robot Manipulation**](https://arxiv.org/pdf/2504.15561) [** Arxiv 2025.04**]
+Institute of Automation, CAS
+
+
+* [**Few-Shot Vision-Language Action-Incremental Policy Learning**](https://arxiv.org/pdf/2504.15517) [** Arxiv 2025.04**]
+Harbin Institute of Technology
+
+
+* [**Think Small, Act Big: Primitive Prompt Learning for Lifelong Robot Manipulation**](https://arxiv.org/pdf/2503.17061) [** Arxiv 2025.04**]
+Shanghai AI Laboratory
+
+
+* [**Replay4NCL: An Efficient Memory Replay-based Methodology for Neuromorphic Continual Learning in Embedded AI Systems**](https://arxiv.org/pdf/2503.17061) [** Design Automation Conference 2025.03**]
+United Arab Emirates University
+
+
+* [**Efficient Continual Adaptation of Pretrained Robotic Policy with Online Meta-Learned Adapters**](https://arxiv.org/pdf/2503.18684) [**Arxiv 2025.03**]
+King’s College London
 
 
 * [**iManip: Skill-Incremental Learning for Robotic Manipulation**](https://arxiv.org/pdf/2503.07087) [**Arxiv 2025.03**]
@@ -688,6 +834,46 @@ INRIA, AI Lab, Softbank Robotics Europe , Theresis Lab, Thales
 
 
 > #### LLM
+
+
+* [**T2I-ConBench: Text-to-Image Benchmark for Continual Post-training**](https://arxiv.org/pdf/2505.16875) [**Arxiv 2025.05**]
+Shanghai Jiao Tong University, Huawei
+
+
+* [**Gated Integration of Low-Rank Adaptation for Continual Learning of Language Models**](https://arxiv.org/pdf/2505.15424) [**Arxiv 2025.05**]
+Nanjing University
+
+
+* [**ULTRAEDIT: Training-, Subject-, and Memory-Free Lifelong Editing in Large Language Models**](https://arxiv.org/pdf/2505.14679) [**Arxiv 2025.05**]
+Independent, HKUST, The Ohio State University
+
+
+* [**Memorization and Knowledge Injection in Gated LLMs**](https://arxiv.org/pdf/2504.21239) [**Arxiv 2025.04**]
+Harvard University
+
+
+* [**What Causes Knowledge Loss in Multilingual Language Models?**](https://arxiv.org/pdf/2504.20356) [**Arxiv 2025.04**]
+Institut Teknologi Bandung
+
+
+* [**Prototype Conditioned Generative Replay for Continual Learning in NLP**](https://aclanthology.org/2025.naacl-long.636.pdf) [**ACL 2025**]
+HKUST
+
+
+* [**Continual Pre-Training is (not) What You Need in Domain Adaption**](https://arxiv.org/pdf/2504.13603) [**Arxiv 2025.04**]
+National Taiwan University, NVIDIA
+
+
+* [**Teaching Large Language Models to Reason through Learning and Forgetting**](https://arxiv.org/pdf/2504.11364) [**Arxiv 2025.04**]
+Universit ́e de Montr ́eal, Amazon Web Services
+
+
+* [**Sculpting Subspaces: Constrained Full Fine-Tuning in LLMs for Continual Learning**](https://arxiv.org/pdf/2503.16843) [**Arxiv 2025.04**]
+Red Hat AI Innovation, MIT-IBM Watson AI Lab
+
+
+* [**LoRASculpt: Sculpting LoRA for Harmonizing General and Specialized Knowledge in Multimodal Large Language Models**](https://arxiv.org/pdf/2503.16843) [**Arxiv 2025.03**]
+Wuhan University
 
 
 * [**Recurrent Knowledge Identification and Fusion for Language Model Continual Learning**](https://arxiv.org/pdf/2502.17510) [**Arxiv 2025.02**]
@@ -839,6 +1025,17 @@ Samsung Research America, Georgia Institute of Technology
 
 * [**Continual Learning of Diffusion Models with Generative Distillation**](https://arxiv.org/pdf/2311.14028) [**CoLLAs 2024**]
 Master in Computer Vision (Barcelona), Apple, KU Leuven
+
+
+> #### Edge Devices
+
+
+* [**Low-Complexity Inference in Continual Learning via Compressed Knowledge Transfer**](https://arxiv.org/pdf/2505.08327) [**Arxiv 2025.05**]
+Nokia Bell Labs,
+
+
+* [**MetaCLBench: Meta Continual Learning Benchmark on Resource-Constrained Edge Devices**](https://arxiv.org/pdf/2504.00174) [**Arxiv 2025.03**]
+HKUST, University of Cambridge, Samsung AI Center
 
 
 > #### DeepFake
