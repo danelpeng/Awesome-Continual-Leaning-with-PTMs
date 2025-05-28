@@ -60,6 +60,10 @@ South China University of Technology
 Monash University, Griffith University
 
 
+* [**A Comprehensive Survey of Continual Learning: Theory, Method and Application**](https://ieeexplore.ieee.org/abstract/document/10444954) [**TPAMI 2024**]
+Tsinghua University
+
+
 * [**Continual Learning with Pre-Trained Models: A Survey**](https://arxiv.org/pdf/2401.16386) [**IJCAI 2024**]
 Nanjing University
 
