@@ -588,7 +588,7 @@ University of Electronic Science and Technology
 > ### Diffusion Based 
 
 
-* [**Diffusion Meets Few-shot Class Incremental Learning**](hhttps://arxiv.org/pdf/2503.23402) [**Arxiv 2025.03**]
+* [**Diffusion Meets Few-shot Class Incremental Learning**](https://arxiv.org/pdf/2503.23402) [**Arxiv 2025.03**]
 NAVER AI Lab
 
 
