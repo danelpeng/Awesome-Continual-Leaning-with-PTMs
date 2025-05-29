@@ -577,6 +577,10 @@ University of Washington, OpenAI, Columbia University, Google Research, Brain Te
 > ### LLM Based 
 
 
+* [**Knowledge Graph Enhanced Generative Multi-modal Models for Class-Incremental Learning**](https://arxiv.org/pdf/2503.18403) [**Arxiv 2025.03**]
+Nankai University
+
+
 * [**External Knowledge Injection for CLIP-Based Class-Incremental Learning**](https://arxiv.org/pdf/2503.08510) [**Arxiv 2025.03**]
 Nanjing University
 
