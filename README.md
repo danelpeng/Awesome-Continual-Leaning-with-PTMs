@@ -750,23 +750,23 @@ University of Oxford, KAUST, Meta AI
 > #### Embodied AI
 
 
-* [**Continual Robot Learning via Language-Guided Skill Acquisition**](https://openreview.net/pdf?id=VJfK5xy6F6) [** ICRAW 2025**]
+* [**Continual Robot Learning via Language-Guided Skill Acquisition**](https://openreview.net/pdf?id=VJfK5xy6F6) [**ICRAW 2025**]
 Georgia Institute of Technology
 
 
-* [**SPECI: Skill Prompts based Hierarchical Continual Imitation Learning for Robot Manipulation**](https://arxiv.org/pdf/2504.15561) [** Arxiv 2025.04**]
+* [**SPECI: Skill Prompts based Hierarchical Continual Imitation Learning for Robot Manipulation**](https://arxiv.org/pdf/2504.15561) [**Arxiv 2025.04**]
 Institute of Automation, CAS
 
 
-* [**Few-Shot Vision-Language Action-Incremental Policy Learning**](https://arxiv.org/pdf/2504.15517) [** Arxiv 2025.04**]
+* [**Few-Shot Vision-Language Action-Incremental Policy Learning**](https://arxiv.org/pdf/2504.15517) [**Arxiv 2025.04**]
 Harbin Institute of Technology
 
 
-* [**Think Small, Act Big: Primitive Prompt Learning for Lifelong Robot Manipulation**](https://arxiv.org/pdf/2503.17061) [** Arxiv 2025.04**]
+* [**Think Small, Act Big: Primitive Prompt Learning for Lifelong Robot Manipulation**](https://arxiv.org/pdf/2503.17061) [**Arxiv 2025.04**]
 Shanghai AI Laboratory
 
 
-* [**Replay4NCL: An Efficient Memory Replay-based Methodology for Neuromorphic Continual Learning in Embedded AI Systems**](https://arxiv.org/pdf/2503.17061) [** Design Automation Conference 2025.03**]
+* [**Replay4NCL: An Efficient Memory Replay-based Methodology for Neuromorphic Continual Learning in Embedded AI Systems**](https://arxiv.org/pdf/2503.17061) [**Design Automation Conference 2025.03**]
 United Arab Emirates University
 
 
